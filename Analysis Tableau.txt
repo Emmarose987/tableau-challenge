@@ -1,0 +1,10 @@
+﻿Analysis:
+
+
+For this challenge, I looked into different factors of trip duration such as gender and starting point. I found that males tend to take slightly longer trips over females. You can see in my second visualization that locations that see the longest trip durations are John St & William St and W18th & 6th Ave. 
+
+
+Not surprisingly, start times for riders tend to increase around 7 in the morning and steadily increase until it peaks at 5 to 6pm (rush hour). This coincides with trip duration, as you can see that trip duration also starts to increase at 6 to 7am and peaks from 1 to 5pm. 
+
+
+The phenomena I found in the data to be interesting, represented in the bottom left visualization, is that trip duration is much higher in the beginning of the month compared to the end of the month. I can not think of an explanation for this, but would be interesting to dig deeper to find out why that is.
